@@ -19,22 +19,26 @@ Welcome to the backend repository of "The Chris Code Meet" application! This rep
 - TypeScript
 - Socket.io
 
-## Getting Started:
+## How To:
 
-1. **Clone the Repository:**
-   ```bash
-   git clone <repository-url>
-   cd backend
+```bash
+##### Clone this repo #####
 
-2. **Install Dependencies:**
-   ```bash
-   npm install
-   ```
+# https
+$ git clone https://github.com/christopher-alves-dev/the-chris-code-meet-back-end.git
 
-3. **Run the Development Server:**
-   ```bash
-   npm run dev
-   ```
+# ssh
+$ git clone git@github.com:christopher-alves-dev/the-chris-code-meet-back-end.git
+
+##### Access this repo #####
+$ cd meet-back
+
+##### Install dependencies #####
+$ npm install
+
+##### Run the application #####
+$ npm start
+```
 
 ## Main Feature: 
 
